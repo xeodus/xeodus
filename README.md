@@ -1,15 +1,15 @@
-# About Me
+## About Me
 
 Hi there! I'm a blockchain developer, building a sustainable supply chain for global humanitarian aid flow.
 
-# Socials
+## Socials
 
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white&labelColor=111111)](https://x.com/kaustab_k)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=0D47A1)](https://facebook.com/xeodus)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white&labelColor=404EED)](https://discord.com/users/fuzzy_blade)
 
 
-# Tech Stack
+## Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=white&labelColor=9C5221)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=FFD43B)
