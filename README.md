@@ -23,4 +23,5 @@ Hi there! I'm a blockchain developer, building a sustainable supply chain for gl
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeodus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeodus&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
