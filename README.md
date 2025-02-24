@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! I'm a blockchain developer who loves to build cool stuffs.
+Sup fam? ;)
 
 ## Socials
 
