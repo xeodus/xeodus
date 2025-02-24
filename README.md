@@ -1,4 +1,6 @@
-Sup fam? ;)
+## About Me
+
+Hi there! I'm a blockchain dev, looking to collaborate on meaningful DeFi projects.
 
 ## Socials
 
