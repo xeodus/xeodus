@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! I'm a blockchain developer, building a sustainable supply chain for global humanitarian aid flow.
+Hi there! I'm a blockchain developer who loves to build cool stuffs.
 
 ## Socials
 
