@@ -11,7 +11,7 @@ Hi there! I'm a blockchain dev, looking to collaborate on meaningful DeFi projec
 
 ## Tech Stack
 
-![Rust](https://img.shields.io/badge/Rust-00923F?style=flat&logo=rust&logoColor=white&labelColor=333333)
+![Rust](https://img.shields.io/badge/Rust-006845?style=flat&logo=rust&logoColor=white&labelColor=333333)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=FFD43B)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=6C6C6C)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&labelColor=2C6E24)
