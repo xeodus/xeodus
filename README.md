@@ -1,7 +1,3 @@
-## About Me
-
-Hi there! I'm a blockchain dev, looking to collaborate on meaningful DeFi projects.
-
 ## Socials
 
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white&labelColor=111111)](https://x.com/kaustab_k)
