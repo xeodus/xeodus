@@ -16,3 +16,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=00599C)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=7A1B0C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=E65100)
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeodus&layout=compact&bg_color=000000&title_color=FF5733&text_color=FFFFFF&icon_color=1ABC9C)](https://github.com/anuraghazra/github-readme-stats)
