@@ -6,7 +6,7 @@
 
 
 ## Tech Stack
-![C++](https://img.shields.io/badge/C++-5865F2?style=flat&logo=c++logoColor=white&labelColor=FF272A)
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-FF272A?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=4169E1)
 ![Rust](https://img.shields.io/badge/Rust-006845?style=flat&logo=rust&logoColor=white&labelColor=333333)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=FFD43B)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=6C6C6C)
