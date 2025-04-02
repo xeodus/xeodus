@@ -6,8 +6,8 @@
 
 
 ## Tech Stack
-![Rust](https://img.shields.io/badge/Rust-006845?style=flat&logo=rust&logoColor=white&labelColor=333333)
 ![C++](https://img.shields.io/badge/C%2B%2B-0D47A1?style=flat&logo=c%2B%2B&logoColor=white&labelColor=FF272A)
+![Rust](https://img.shields.io/badge/Rust-006845?style=flat&logo=rust&logoColor=white&labelColor=333333)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=FFD43B)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white&labelColor=6C6C6C)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white&labelColor=2C6E24)
@@ -19,4 +19,4 @@
 
 ## Languages
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeodus&layout=compact&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=1ABC9C)](https://github.com/anuraghazra/github-readme-stats)
