@@ -18,4 +18,4 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=E65100)
 
 ## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeodus&layout=compact&theme=radical&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeodus&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=300)
