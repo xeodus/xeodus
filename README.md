@@ -1,4 +1,6 @@
-Hi there! I am software developer passionate about low-level software and blockchains. 
+Hi there! 
+
+I am software developer passionate about low-level software, blockchains, and pretty much everything that tech has to offer :)
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-0D47A1?style=flat&logo=c%2B%2B&logoColor=white&labelColor=FF272A)
