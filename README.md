@@ -1,10 +1,3 @@
-## Socials
-
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white&labelColor=111111)](https://x.com/kaustab_k)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=0D47A1)](https://facebook.com/xeodus)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white&labelColor=404EED)](https://discord.com/users/fuzzy_blade)
-
-
 ## Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-0D47A1?style=flat&logo=c%2B%2B&logoColor=white&labelColor=FF272A)
 ![Rust](https://img.shields.io/badge/Rust-006845?style=flat&logo=rust&logoColor=white&labelColor=333333)
