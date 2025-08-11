@@ -1,6 +1,6 @@
 **Hi there!**
 
-- I am software developer passionate about low-level software, blockchains.
+- I am software developer passionate about low-level software and blockchains.
 - Looking to connect and collaborate with folks from AI and Web3 space.
 
 ## Tech Stack
