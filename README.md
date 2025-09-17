@@ -14,4 +14,4 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=990000)
 
 ## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeodus&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=300)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeodus&layout=compact&theme=radical&hide_border=true&border_radius=10)
