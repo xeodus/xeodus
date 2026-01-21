@@ -1,5 +1,9 @@
-**Hi there!**
-- Software Developer | web3 | AI
+**Hi there!** 
+
+- My name is Kaustab
+- Currently based in Calcutta
+- Currently into Web3, HFT and AI side of things
+- At times I daydream about total nihilistic un-singularity
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-0D47A1?style=flat&logo=c%2B%2B&logoColor=white&labelColor=FF272A)
