@@ -1,6 +1,6 @@
 **Hi, I'm Kaustab** 
 
-Based out of India | Messing with AI and Robotics | Into HFT side of things
+Messing with AI, Blockchain, and Robotics | Into HFT side of things
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-0D47A1?style=flat&logo=c%2B%2B&logoColor=white&labelColor=FF272A)
